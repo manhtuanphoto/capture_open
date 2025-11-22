@@ -1,0 +1,7 @@
+{
+  "name": "CAPTURE OPEN",
+  "description": "A professional-grade photo organization and editing suite powered by Gemini. Features intelligent image analysis, organization, and generative AI editing capabilities.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
